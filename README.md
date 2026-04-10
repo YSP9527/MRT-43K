@@ -34,9 +34,4 @@ data/
 ## ✍️ Citation
 If you find the MRT-43K dataset or this codebase useful for your research, please cite our work:
 ```text
-@article{ysp2026mrt43k,
-  title={MRT-43K: A Large-Scale Benchmark for Data-Centric Mars Terrain Classification},
-  author={YSP9527 and Co-authors},
-  journal={arXiv preprint / Journal Name},
-  year={2026}
-}
+
