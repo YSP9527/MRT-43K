@@ -5,7 +5,7 @@
 
 Official implementation of the paper: **"MRT-43K: A Large-Scale Benchmark for Data-Centric Mars Terrain Classification"**. 
 
-This repository provides access to the **MRT-43K dataset**, a large-scale benchmark containing **43,000 images** for Martian terrain classification, along with scripts for feature extraction, entropy-based data analysis, and model training.
+This repository provides access to the **MRT-43K dataset**, a large-scale benchmark containing **43,000 images** for Martian terrain classification, along with scripts for feature extraction, entropy-based data analysis, and model training.(During the submission period, only a portion of the content will be displayed.)
 
 ---
 
